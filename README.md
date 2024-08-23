@@ -1,82 +1,10 @@
-# New Team Card UPN
+# New Team Card
 
 This project is a responsive and stylish card component that can be used to display team members' information, such as profile pictures, titles, and roles.
 
 ## Preview
 
 ![Team Card Preview](https://img.ultronprivat.media/u/9ZMt4o.png)
-
-## Features
-
-- **Responsive Design**: The card is responsive and works well on different screen sizes.
-- **Customizable**: Easily change the images, titles, and roles via the HTML.
-- **Hover Effects**: Buttons change styles when hovered for better user interaction.
-
-## Getting Started
-
-### Prerequisites
-
-- Basic understanding of HTML and CSS.
-- A text editor, like VSCode or Sublime Text.
-- A web browser to view the card.
-
-### Installation
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/UltronReal/team_card_discord.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd team_card_discord
-    ```
-
-3. **Open the `index.html` file in your browser:**
-
-    ```bash
-    open index.html
-    ```
-
-### Customization
-
-To customize the card:
-
-- **Profile Image**: Replace the URL in the `img` tag inside the `card__avatar` div.
-- **Banner Image**: Replace the URL in the `img` tag inside the `card__img` div.
-- **Title and Subtitle**: Update the text in the `card__title` and `card__subtitle` divs respectively.
-
-### CSS Variables
-
-You can adjust the look of the card by modifying the CSS variables at the top of the CSS file:
-
-- `--main-color`: Controls the main accent color.
-- `--submain-color`: Controls the subtitle text color.
-- `--bg-color`: Controls the background color of the card.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Design inspired by [Uiverse.io](https://uiverse.io/).
-- SVG assets from [source].
-- Icons from [source].
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any changes you would like to make.
-
-# New Team Card UPN
-
-This project is a responsive and stylish card component that can be used to display team members' information, such as profile pictures, titles, and roles.
-
-## Preview
-
-![Team Card Preview](link_to_screenshot_image)
 
 ## Features
 
@@ -104,7 +32,7 @@ This project is a responsive and stylish card component that can be used to disp
 2. **Navigate to the project directory:**
 
     ```bash
-    cd new-team-card-upn
+    cd team_card_discord
     ```
 
 3. **Open the `index.html` file in your browser:**
