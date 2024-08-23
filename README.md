@@ -4,7 +4,7 @@ This project is a responsive and stylish card component that can be used to disp
 
 ## Preview
 
-![Team Card Preview](https://img.ultronprivat.media/u/bdLhvM.png)
+![Team Card Preview](https://img.ultronprivat.media/u/3tjPpz.png)
 
 ## Features
 
